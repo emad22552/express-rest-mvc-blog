@@ -4,5 +4,10 @@ simple REST MVC express blog
 
 ```
 npm install
+```
+
+as mongod is running...
+
+```
 npm run-script start
 ```
