@@ -6,7 +6,7 @@ simple REST MVC express blog
 npm install
 ```
 
-as mongod is running...
+as mongod is also running...
 
 ```
 npm run-script start
